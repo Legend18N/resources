@@ -16,3 +16,5 @@ installed by defult in kali
       mkdir work
       wget https://github.com/bitextor/pdf-extract/blob/master/setup.sh
       apt-get install autoconf, ant ,libtool
+      sudo bash setup.sh
+      
