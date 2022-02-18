@@ -1,7 +1,8 @@
 # tools help you anlayze the pdf files:
 
 ## 1- pdfid.
-helpfull tools give status about the file and all the objects inside the ppdf file
+helpfull tools give status about the file and all the objects inside the pdf file
+there is opetion for disarm the file
 #### installation 
       sudo apt install pdfid
 
