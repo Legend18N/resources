@@ -13,12 +13,17 @@ very powerfulll tools give you a view of all the object conent
 installed by defult in kali
 
 ## 3- pdfextracted
+very powerfull tool capaple of dump the streams in the pdf file and show you the scripts inside the pdf 
 
-
-#### installation 
-      mkdir work
-      wget https://github.com/bitextor/pdf-extract/blob/master/setup.sh
-      apt-get install autoconf, ant ,libtool
-      sudo bash setup.sh
-      
+#### installation       
       sudo gem install origami
+      
+## 3- peepdf.
+give you if the pdf related to CVE.
+full discrption of the file status and architicture.
+
+#### intallation
+      wget http://eternal-todo.com/files/pdf/peepdf/peepdf_0.3.zip 
+      unzip peepdf_0.3.zip 
+      you are ready now 
+      
