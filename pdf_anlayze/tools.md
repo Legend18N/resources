@@ -21,3 +21,4 @@ installed by defult in kali
       apt-get install autoconf, ant ,libtool
       sudo bash setup.sh
       
+      sudo gem install origami
